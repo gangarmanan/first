@@ -1,0 +1,4 @@
+c:\users\manan\documents\visual studio 2013\Projects\chappie\chappie\bin\Debug\chappie.exe.config
+c:\users\manan\documents\visual studio 2013\Projects\chappie\chappie\obj\Debug\chappie.JARVIS.Form1.resources
+c:\users\manan\documents\visual studio 2013\Projects\chappie\chappie\obj\Debug\chappie.Resources.resources
+c:\users\manan\documents\visual studio 2013\Projects\chappie\chappie\obj\Debug\chappie.vbproj.GenerateResource.Cache
